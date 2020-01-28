@@ -1,0 +1,18 @@
+
+
+1- Open jira and find all the opened tickets of remotecamp assignments 
+2- Open the tickets you want to work on . 
+3- Enfore Input Quality bar and if okay then go ahead.
+4- Change its status to in progress
+5- Start working on it and open github and download project.
+6- build the project and solve the ticket. Check Internal quality bars against the ticket.
+7- submit the ticket.
+
+
+ I can ask questions from the QNA sheet
+
+
+QUESTIONS: 
+
+Can you please guide me about the deck ?
+Can you please guide me about the PR?
